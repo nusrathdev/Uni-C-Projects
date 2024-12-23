@@ -1,1 +1,1 @@
-
+The Folder Tree Visualizer is a tool that displays the hierarchical structure of directories and files in a tree-like format. It helps users easily explore and analyze folder organization, making it useful for developers, system administrators, and learners to understand file systems, debug projects, and document directory structures.
