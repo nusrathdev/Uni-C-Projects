@@ -33,6 +33,7 @@ Compile the code using a C compiler.
 Run the executable file and test the program with sample inputs.
 
 🤝 Contributions
+
 Contributions are welcome! If you want to improve existing code or add new projects, feel free to fork this repository and submit a pull request.
 
 📧 Contact
